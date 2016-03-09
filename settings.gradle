@@ -1,0 +1,4 @@
+include ':postings-command-service', ':postings-query-service',
+		':followfa-webapp-service'
+
+rootProject.name = 'followfa-services'
